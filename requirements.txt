@@ -1,0 +1,5 @@
+python-telegram-bot[ext]
+google-generativeai
+requests
+gtts
+pytz 
